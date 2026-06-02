@@ -104,7 +104,7 @@
 
 <div align="center">
   <h4>🔥 إحصائيات جيت هاب | GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=MimonaGamil&show_icons=true&theme=radial&hide_border=true" alt="Maymoona's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MimonaGamil&show_icons=true&theme=radial&hide_border=true" alt="Mimona's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimonaGamil&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
 </div>
