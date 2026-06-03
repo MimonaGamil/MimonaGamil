@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5722&vCenter=true&width=500&lines=Hello+<coders%2F>;I'm+Maymoona+Al-Salwi;Computer+Mathematics+Grad" alt="Typing Effect" />
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
   
   <h3>👋 Welcome to my GitHub Profile!</h3>
   <!-- <p>Based in Sana'a, Yemen 🇾🇪 | Passionate about Analytical & Software Solutions</p> -->
@@ -82,7 +82,7 @@
 ## 🤝 Let's Connect!
 
 <p align="left">
-  <a href="mailto:mimonagamil77@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mimonagamil77@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/MimonaGamil" target="_blank">
