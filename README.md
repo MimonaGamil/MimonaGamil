@@ -72,6 +72,8 @@
 
 ## 📊 GitHub Stats
 
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=MimonaGamil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="Maymoona's GitHub Stats" />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MimonaGamil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="Maymoona's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MimonaGamil&theme=tokyonight" width="48%" alt="Maymoona's GitHub Streak" />
