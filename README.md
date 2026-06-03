@@ -1,64 +1,93 @@
-👋 مرحباً بك في ملفي الشخصي | أنا ميمونة الصلوي!
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=MimonaGamil&color=ff5722&style=flat-square" alt="Maymoona Profile Views" />
-</div>🎯 نبذة عني
-
-خريجة تخصص رياضيات حاسوب شغوفة بحل المشكلات البرمجية المعقدة وأمتلك خلفية تحليلية قوية وخبرة ممتازة في تطوير تطبيقات الويب المتكاملة وتحليل النظم وإدارة هندسة قواعد البيانات. أسعى دائماً لبناء حلول تقنية مبتكرة ومتكاملة.
-
-- المؤهل الأكاديمي: بكالوريوس رياضيات حاسوب من جامعة صنعاء القديمة.
-- التركيز الحالي: تطوير وتوسيع الأنظمة البرمجية باستخدام لارافيل وتحسين قواعد البيانات وبناء الحلول الذكية.
-- القيم الأساسية: التعلم المستمر وسرعة التكيف مع بيئات العمل والدقة المتناهية والانتباه لأدق التفاصيل التقنية.
-
----
-
-💻 التقنيات التي أعتمد عليها
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=flat-square&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftaccess&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
----
-
-📂 أبرز المشاريع البرمجية
-
-- نظام إدارة بنك الدم القائم على الويب - مشروع التخرج
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=FF5722&vCenter=true&width=500&lines=Hello+<coders%2F>;I'm+Maymoona+Al-Salwi;Computer+Mathematics+Grad" alt="Typing Effect" />
   
-  * تطبيق ويب متكامل لإدارة بيانات المتبرعين وتنظيم جرد وإدارة المخزون بدقة تامة باستخدام تقنيات لارافيل ولايف واير وماي إس كيو إل.
-
-- تطبيق إدارة العقارات والمبيعات
+  <h3>👋 Welcome to my GitHub Profile!</h3>
+  <!-- <p>Based in Sana'a, Yemen 🇾🇪 | Passionate about Analytical & Software Solutions</p> -->
   
-  * برنامج لسطح المكتب بواجهة رسومية تفاعلية ومنظمة لتتبع بيانات العقارات والمبيعات تم تطويره بواسطة لغة بايثون وتيكنتر.
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=MimonaGamil&color=ff5722&style=flat-square" alt="Mimona Profile Views" />
+  </p>
+</div>
 
-- خوارزمية التشفير التكراري المتقدمة
-  
-  * مشروع أكاديمي ركز على دمج خوارزميتين معروفتين في الحماية مع ابتكار تحسينات لتعزيز أمن وتشفير البيانات عبر لغة بايثون.
+<br />
 
-- تصميم وبناء هيكلية قواعد البيانات
-  
-  * مشروع مخصص لتصميم وتنفيذ الجداول والعلاقات المعقدة وبنائها داخل بيئة عمل متكاملة باستخدام أوراكل ديفيلوبر.
+## 👤 About Me
+
+- **🎓 Background:** Computer Mathematics Graduate from Sana'a University.
+- **💻 Expertise:** Full-Stack Web Development, Systems Analysis & Database Engineering.
+- **🚀 Focus:** Building scalable systems with Laravel, optimizing queries, and solving complex problems.
+- **✨ Traits:** High precision, quick adaptability, and a continuous learning mindset.
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+### 🗄️ Databases & Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle_11g-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle 11g" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### ⚙️ OS & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-📈 الدورات والشهادات والاهتمامات
+## 🚀 Featured Projects
 
-- دورة مكثفة في تحليل وتصميم النظم من الجامعة الوطنية.
-- دورة متقدمة في قواعد بيانات أوراكل من الجامعة الوطنية.
-- عضو نشط في نادي مطوري جوجل ومشاركة مستمرة بالمسارات التقنية.
-- دورة في أساسيات إدارة المشاريع من معهد الألفية.
-- دبلوم في اللغة الإنجليزية المستوى المتوسط من مركز خدمات المجتمع بجامعة صنعاء.
-
----
-
-🤝 تواصل معي
-
-- البريد الإلكتروني: mimonagamil77@gmail.com
-- الموقع الحالي: معين - صنعاء - اليمن
+- **🩸 Blood Bank Management System (Web-Based) - Graduation Project**
+  * An integrated web application designed to manage donor records and track inventory with extreme precision. Built using **Laravel**, **Livewire**, and **MySQL**.
+  
+- **🏢 Real Estate & Sales Management Application**
+  * A desktop application featuring a highly interactive, organized graphical user interface (GUI) to track properties and sales data. Developed using **Python** and **Tkinter**.
+  
+- **🔐 Advanced Iterative Cryptography Algorithm**
+  * An academic project focusing on merging two renowned security algorithms and introducing enhancements to bolster data encryption and security. Implemented via **Python**.
 
 ---
 
-📊 إحصائيات ونشاط الحساب على GitHub
+## 📜 Certifications & Interests
+
+- 🗃️ **Advanced Oracle Databases Course** – National University.
+- 📈 **Fundamentals of Project Management** – Al-Hazimi Millennium Institute.
+- 🔤 **Intermediate English Diploma** – Center for Community Services, Sana'a University.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MimonaGamil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="Maymoona's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MimonaGamil&theme=tokyonight" width="48%" alt="Maymoona's GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MimonaGamil&theme=radial&hide_border=true" alt="Maymoona Streak Stats" />
-</p><p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MimonaGamil&show_icons=true&theme=radial&hide_border=true" alt="Maymoona GitHub Stats" />
+  <a href="mailto:mimonagamil77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/MimonaGamil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
+- 📍 **Current Location:** Mu'ain, Sana'a, Yemen
